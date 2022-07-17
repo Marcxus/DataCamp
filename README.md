@@ -18,4 +18,3 @@ DataCamp repository
 
 # Career 
 
-- Data Analyst With Python [62 Hours]
